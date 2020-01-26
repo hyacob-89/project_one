@@ -1,3 +1,6 @@
+#ignore Api keys
+config.py
+
 # config file hidden
 config.py
 
